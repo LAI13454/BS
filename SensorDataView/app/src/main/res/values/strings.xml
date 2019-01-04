@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">传感数据浏览器</string>
+    <string name="title_activity_sensor_main">SensorMainActivity</string>
+</resources>
